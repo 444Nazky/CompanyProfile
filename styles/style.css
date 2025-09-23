@@ -1,18 +1,17 @@
-*
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
 body {
   background-color: #111;
   color: #fff;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
-
-
-body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .brand-green {
   color: #9eff00;
+}
+
+.bg-neon {
+  background-color: #9eff00;
 }
 
 .btn-green {
@@ -50,26 +49,6 @@ footer {
   background: #1a1a1a;
   padding: 40px;
   margin-top: 50px;
-}
-
-body {
-  background-color: #111;
-  color: #fff;
-}
-.brand-green { color: #9eff00; }
-.bg-neon { background-color: #9eff00; }
-.btn-green {
-  background-color: #9eff00;
-  color: #111;
-  font-weight: bold;
-  border: none;
-}
-.btn-green:hover {
-  background-color: #82d600;
-  color: #000;
-}
-.services-card {
-  background: #1a1a1a;
 }
 
 p1 {
