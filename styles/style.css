@@ -32,6 +32,15 @@ body {
   text-align: center;
 }
 
+.hero-text-bg {
+  background-image: url('assets/images/sscrapper');
+  background-size: cover;
+  display: inline-block;
+  padding: 60px 40px;
+  border-radius: 12px;
+  color: white;
+}
+
 .stats {
   background: #1a1a1a;
   border-radius: 12px;
@@ -51,6 +60,6 @@ footer {
   margin-top: 50px;
 }
 
-p1 {
+p.custom-text {
   color: white;
 }
